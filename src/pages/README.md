@@ -6,7 +6,7 @@ This project is a full-stack application designed to streamline the management o
 The goal of this application is to provide an efficient solution for managing library resources. It helps administrators track books, borrowers, and other critical library data seamlessly. By automating processes, the application reduces the administrative burden and ensures an organized library system.
 
 ## Live Demo
-You can explore the project live at this[ https://jade-torrone-2c429f.netlify.app/
+You can explore the project live at  https://jade-torrone-2c429f.netlify.app/
 
 ## Features
 
